@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "clarifai": "^2.9.1",
+    "nodemon": "^2.0.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0"
+    "react-particles-js": "^2.7.0",
+    "react-scripts": "3.2.0",
+    "react-tilt": "^0.1.4",
+    "react-tilted": "^1.0.0",
+    "tachyon": "0.0.11",
+    "tachyons": "^4.11.1"
   },
   "scripts": {
     "start": "react-scripts start",

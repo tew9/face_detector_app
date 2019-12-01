@@ -1,0 +1,4 @@
+.Tilt{
+    /* background-image:url('./bg.jpg'); */
+    background-image: linear-gradient(to right, rgb(142, 27, 157), rgb(243, 169, 250));
+}

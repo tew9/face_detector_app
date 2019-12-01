@@ -1,9 +1,14 @@
 .App {
   text-align: center;
+  /* background-image: linear-gradient(to right, rgb(27, 144, 157), rgb(243, 169, 250)); */
 }
 
 .App-logo {
   height: 40vmin;
+}
+.center {
+  display: flex;
+  justify-content: center;
 }
 
 .App-header {
@@ -15,6 +20,15 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.Particle {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1;
 }
 
 .App-link {
